@@ -1,0 +1,5 @@
+# Applied when the profile selects this bundle.
+# Mount without a restart after `dsh plugin --profile web add <dir>`.
+- insert:
+    - id: dsh-go-workbuddy-connect
+      name: dsh-go-workbuddy-connect

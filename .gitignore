@@ -1,0 +1,8 @@
+# Never commit WorkBuddy credentials or local state.
+credential.json
+pending-login.json
+device-salt
+models.json
+*.log
+.DS_Store
+node_modules/
